@@ -1,0 +1,23 @@
+Based off 2-19 meeting
+
+Considerations:
+Rip:
+- What communication protocol? ethernet, wifi, ble?
+- List of causes
+- List of effects
+- Time required between specific causes / effects
+
+Niko:
+- How devices interact with each other and the webapp
+- How is data stored
+    - Also look into REST api?
+- How do you commission devices / get them to interact with others?
+
+Richard:
+- Host webapp locally - should be able to make system work without internet
+  connection.
+
+All:
+- Identify high risk aspects you might not implement along with plan
+  b implementation
+- Identify things that might fail and your plan b for them
